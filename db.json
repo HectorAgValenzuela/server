@@ -1,10 +1,4 @@
 {
-  "login": [
-    {
-    "user": "Luis",
-    "pasword": "1234"
-    }
-  ],
   "posts": [
     {
       "id": 1,
@@ -33,5 +27,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "login": {
+    "user": "Luis",
+    "pasword": "1234"
   }
 }
